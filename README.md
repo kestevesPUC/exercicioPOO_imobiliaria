@@ -24,10 +24,12 @@ resolva adequadamente o problema exposto. Não é necessário indicar construtor
 fique atento para deixar claros atributos e métodos relevantes para a solução correta do problema.
 2) Crie as classes modeladas por você na questão (1). Não é necessário haver um aplicativo, porém tenha
 certeza de que suas classes respondem aos requisitos do sistema corretamente.
+
 O que deve ser entregue:
 • Modelo/diagrama de classes desenvolvido para resolver o problema. Não é necessário
 incluir construtores nem métodos get/set no modelo.
 • Código do programa, de acordo com o diagrama, e documentado/comentado.
+
 Observações:
 • Trabalho individual. Trabalhos entregues com cópias parciais ou totais, tanto no modelo,
 como na estruturação ou trechos de código receberão nota zero, sem direito a recursos.
