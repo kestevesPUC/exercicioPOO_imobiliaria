@@ -1,4 +1,4 @@
-# exercicioPOO_imobiliaria
+#Programação Orientada por Objetos -  exercicio imobiliaria
 
 Uma imobiliária necessita de um sistema de software para calcular o valor dos aluguéis dos imóveis
 que administra. Estes imóveis estão divididos entre casas e apartamentos. Sobre qualquer imóvel se necessita
